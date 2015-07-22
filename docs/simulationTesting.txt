@@ -1,0 +1,10 @@
+Sample Output:
+
+
+Airport Security Checkpoint Simulator
+=====================================
+
+Number of people in line: 1000
+
+Total Time for Two Stations: 1923.57 virtual minutes
+Total Time for three Stations: 1074.02 virtual minutes

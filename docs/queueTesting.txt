@@ -1,0 +1,36 @@
+Sample Output:
+
+
+        Queue Tester Program
+        ====================
+
+Length Test Suite
+-----------------
+
+## Testing length of 0 nodes.
+
+Attempt to print an empty queue...
+The queue is empty.
+
+
+## Testing length of 11 nodes.
+
+Adding elements to the queue...
+Printing the queue; starting at the front.
+Element Value: -25671
+Element Value: -8763
+Element Value: -556
+Element Value: -34
+Element Value: -2
+Element Value: 0
+Element Value: 2
+Element Value: 34
+Element Value: 556
+Element Value: 8763
+Element Value: 25671
+
+Queue Length: 11
+
+Removing elements from the queue.
+
+Queue Length: 0
